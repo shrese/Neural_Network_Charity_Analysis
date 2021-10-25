@@ -1,4 +1,5 @@
 # Neural_Network_Charity_Analysis
+![](Resources/photo.jpg)
 
 ## Overview: 
 
